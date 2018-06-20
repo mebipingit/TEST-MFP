@@ -5,6 +5,7 @@
     <translation xmi:type="utility:TranslatableString" key="WSConsumer" bundleName="WSConsumer" pluginId="TestMFP"/>
     <colorGraphic16 xmi:type="utility:GIFFileGraphic" resourceName="platform:/plugin/TestMFP/icons/full/obj16/WSConsumer.gif"/>
     <colorGraphic32 xmi:type="utility:GIFFileGraphic" resourceName="platform:/plugin/TestMFP/icons/full/obj30/WSConsumer.gif"/>
+    <shortDescription xmi:type="utility:ConstantString" string="$MQSI Author=John Smith MQSI$"/>
     <composition>
       <nodes xmi:type="ComIbmMQInput.msgnode:FCMComposite_1" xmi:id="FCMComposite_1_1" location="139,139" queueName="WS.IN">
         <translation xmi:type="utility:ConstantString" string="MQ Input"/>
